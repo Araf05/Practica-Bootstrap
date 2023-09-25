@@ -1,3 +1,8 @@
+body {
+    background-color: whitesmoke;
+}
+
+
 .cursos a.btn {
     padding: 0.5rem 2rem;
     transition: all;
